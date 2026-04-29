@@ -1,0 +1,12 @@
+{
+  "name": "Smart Civic Complaint System",
+  "description": "An AI-powered civic platform for citizens to report and track local issues like potholes, sanitation, and street lighting with automatic AI classification and admin dashboard.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "AI-based classification",
+    "Real-time tracking",
+    "Admin analytics"
+  ]
+}
